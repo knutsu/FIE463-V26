@@ -29,11 +29,11 @@ Course material for spring term 2026 (V26) — Author: Richard Foltyn
 | Week | Date        | L/W | Topic | Notes & Exercises | Solutions |
 |------|-------------|-----|-------|-------------------|-----------|
 |  7   | Tue, Feb 17 | `L` | Numerical optimization | [Notebook](lectures/lecture05/lecture05.ipynb), [PDF](lectures/lecture05/lecture05.pdf) | —  |
-|      | Thu, Feb 19 | `W` | Numerical optimization | [Notebook](workshops/workshop05/workshop05.ipynb), [PDF](workshops/workshop05/workshop05.pdf) | TBA |
+|      | Thu, Feb 19 | `W` | Numerical optimization | [Notebook](workshops/workshop05/workshop05.ipynb), [PDF](workshops/workshop05/workshop05.pdf) | [Notebook](workshops/workshop05/workshop05-solution.ipynb), [PDF](workshops/workshop05/workshop05-solution.pdf) |
 |  8   | Tue, Feb 24 | `L` | General equilibrium | [Notebook](lectures/lecture06/lecture06.ipynb), [PDF](lectures/lecture06/lecture06.pdf) | —  |
 |      | Thu, Feb 26 | `W` | General equilibrium | [Notebook](workshops/workshop06/workshop06.ipynb), [PDF](workshops/workshop06/workshop06.pdf) | TBA  |
 |  9   | Tue, Mar 3  | `L` | Overlapping-generations models | [Notebook](lectures/lecture07/lecture07.ipynb), [PDF](lectures/lecture07/lecture07.pdf) | —  |
-|      | Thu, Mar 5  | `W` | Overlapping-generations models | TBA | TBA |
+|      | Thu, Mar 5  | `W` | VS Code & GitHub Copilot integration | TBA | TBA |
 |  10  | Tue, Mar 10 | `L` | Stochastic processes & wealth dynamics | [Notebook](lectures/lecture08/lecture08.ipynb), [PDF](lectures/lecture08/lecture08.pdf) | —  |
 |      | Thu, Mar 12 | `W` | Stochastic processes & wealth dynamics | [Notebook](workshops/workshop08/workshop08.ipynb), [PDF](workshops/workshop08/workshop08.pdf) | TBA |
 
